@@ -1,0 +1,54 @@
+/* <img width: 70px; */
+body {
+    background-size: cover;
+}
+
+
+div {
+    background-color: #99CCFF;
+    width: 850px;
+    text-align: center;
+    font-size: 25px;
+    width: 850px;
+    
+}
+
+/* img {
+    width: 200px;
+    height: 250px;
+    text-align: center;
+    /* position: relative; */
+/* } */ 
+
+img {
+    width: 400px;
+    height: 400px;
+    /* margin:auto */
+    /* text-align: center; */
+    /* position: relative; */
+} 
+
+#purisection {
+    /* text-align: center; */
+    margin:auto
+}
+
+#prinsecesection {
+    /* text-align: center; */
+    margin:auto
+}
+
+#decosection {
+    /* text-align: center; */
+    margin:auto
+}
+
+#flowersection {
+    /* text-align: center; */
+    margin:auto
+}
+
+#divsection {
+    /* text-align: center; */
+    margin:auto
+}
